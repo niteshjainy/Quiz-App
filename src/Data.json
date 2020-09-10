@@ -1,0 +1,52 @@
+{
+  "questions": [
+    {
+      "question": "Look at this series: 12, 11, 13, 12, 14, 13, … What number should come next?",
+      "A": "10",
+      "B": "16",
+      "C": "13",
+      "D": "15",
+      "answer": "D"
+    },
+    {
+      "question": "Look at this series: 36, 34, 30, 28, 24, … What number should come next?",
+      "A": "22",
+      "B": "26",
+      "C": "23",
+      "D": "20",
+      "answer": "A"
+    },
+    {
+      "question": "Which word does NOT belong with the others?",
+      "A": "index",
+      "B": "glossary",
+      "C": "chapter",
+      "D": "book",
+      "answer": "D"
+    },
+    {
+      "question": "Which word is the odd man out?",
+      "A": "hate",
+      "B": "fondness",
+      "C": "liking",
+      "D": "attachment",
+      "answer": "A"
+    },
+    {
+      "question": "Paw : Cat :: Hoof : ?",
+      "A": "Lamb",
+      "B": "Horse",
+      "C": "Elephant",
+      "D": "Tiger",
+      "answer": "B"
+    },
+    {
+      "question": "AMB, CLB, BKC, DJC, ______",
+      "A": "EID",
+      "B": "CJD",
+      "C": "EIF",
+      "D": "CID",
+      "answer": "D"
+    }
+  ]
+}
